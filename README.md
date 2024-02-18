@@ -1,2 +1,2 @@
 # notqaltx.github.io
-All notqaltx's modules is right here (maybe not).
+All notqaltx's modules is right here.
